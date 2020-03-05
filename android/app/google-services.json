@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "165070871918",
+    "firebase_url": "https://itcwallet.firebaseio.com",
+    "project_id": "itcwallet",
+    "storage_bucket": "itcwallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165070871918:android:4f476535a89ab2d1",
+        "android_client_info": {
+          "package_name": "com.rnwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165070871918-6iagjgfotqa4il4cjn46sskhuo05u0ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjVkvPluqJx5GTGY1lsoCbsT-GUdiirJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+

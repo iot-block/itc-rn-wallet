@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rnWallet.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6B0376B28346EB9BB1EFF2ABD6679FB8AB44E152</string>
+				<key>dateExpires</key>
+				<string>2020/9/8</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>32G7Q95878.com.wallet.itc.adhoc</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>32G7Q95878</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>inter-app-audio</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>rnWallet.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f45cb643-46b3-4256-86fa-85b3b1ae2065</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.wallet.itc.adhoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>32G7Q95878</string>
+				<key>name</key>
+				<string>Qute Network Technology (Shanghai) Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
