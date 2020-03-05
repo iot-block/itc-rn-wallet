@@ -5,8 +5,8 @@ A react-native app rnWallet App, which can run on both Android and iOS platforms
 Make sure you have xcode and android emulators installed.
 Then do the following at the terminal.
 
-1. git clone git@github.com:c-block/rnWallet.git
-2. cd rnWallet
+1. git clone https://github.com/iot-block/itc-rn-wallet
+2. cd itc-rn-wallet
 3. yarn
 4. react-native run-ios / run-android
 
